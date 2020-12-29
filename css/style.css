@@ -566,6 +566,11 @@ select {
         text-align: left;
     }
 
+    td:nth-child(7) {
+       
+        text-align: left;
+    }
+
     td {
         text-align: left;
         border-bottom: 1px solid #c9c1c1;
