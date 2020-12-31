@@ -411,7 +411,7 @@ select {
 
     .left {
         max-width: 300px;
-        margin: auto;
+
     }
 
 
@@ -567,7 +567,7 @@ select {
     }
 
     td:nth-child(7) {
-       
+
         text-align: left;
     }
 
